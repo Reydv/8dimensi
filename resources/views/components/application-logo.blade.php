@@ -1,0 +1,1 @@
+<img src="/dist/titlegray.png" alt="" width="200px">
